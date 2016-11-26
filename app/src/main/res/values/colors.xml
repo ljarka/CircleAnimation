@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ripple_effect_color_color">@color/button_border_selected_color</color>
+    <color name="background_color">#161b21</color>
+    <color name="button_background_default_color">#1f2d3e</color>
+    <color name="button_background_selected_color">#4b4b3e</color>
+    <color name="button_border_selected_color">#f5c94c</color>
+    <color name="button_border_default_color">#424d59</color>
+    <color name="button_text_selected_color">#f5c94c</color>
+    <color name="button_text_default_color">#7a8aa1</color>
+</resources>

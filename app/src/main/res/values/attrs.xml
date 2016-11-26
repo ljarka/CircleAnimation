@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleRippleButton">
+        <attr name="buttonText" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CircularRippleEffect">
+        <attr name="rippleSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleButton">
+        <attr name="circlePadding" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="circleSize" format="dimension" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+
+</resources>
